@@ -1,0 +1,44 @@
+[
+  {
+    "id": "ojt",
+    "title": "On-the-Job Training (OJT)",
+    "title_ar": "التدريب على رأس العمل",
+    "summary": "Workplace learning with approved organisations and structured technical outcomes.",
+    "summary_ar": "خبرة عملية منظمة لدى الجهات المعتمدة."
+  },
+  {
+    "id": "internships",
+    "title": "Internships",
+    "title_ar": "التدريب المهني",
+    "summary": "Industry exposure for eligible learners in cybersecurity and related technology environments.",
+    "summary_ar": "فرص تدريب صناعي وتقني للطلبة المؤهلين."
+  },
+  {
+    "id": "hackathons-ctf",
+    "title": "Hackathons & CTF",
+    "title_ar": "الهاكاثونات وCTF",
+    "summary": "Applied challenges that develop technical problem-solving and teamwork.",
+    "summary_ar": "تحديات عملية لتطوير حل المشكلات والعمل الجماعي."
+  },
+  {
+    "id": "graduation-projects",
+    "title": "Graduation Projects",
+    "title_ar": "مشاريع التخرج",
+    "summary": "Capstone projects addressing practical cybersecurity challenges.",
+    "summary_ar": "مشاريع تطبيقية تعالج تحديات سيبرانية."
+  },
+  {
+    "id": "certifications",
+    "title": "Professional Certifications",
+    "title_ar": "الشهادات المهنية",
+    "summary": "Industry-aligned learning and certification pathways.",
+    "summary_ar": "مسارات تعلم مرتبطة بالمهارات والشهادات الدولية."
+  },
+  {
+    "id": "industry-challenges",
+    "title": "Industry Challenges",
+    "title_ar": "تحديات الصناعة",
+    "summary": "Projects based on real organisational problems and applied innovation.",
+    "summary_ar": "مشاريع مبنية على مشكلات حقيقية من المؤسسات."
+  }
+]

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cyberacademy.ncst.edu.bh/sitemap.xml

@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cyber-guards",
+    "title": "Cyber Guards Hackathon",
+    "title_ar": "هاكاثون حراس السايبر",
+    "type": "Competition",
+    "type_ar": "مسابقة",
+    "status": "Registration opening soon",
+    "status_ar": "سيفتح التسجيل قريبًا",
+    "summary": "A multi-sector cybersecurity challenge connecting schools, universities, government and industry.",
+    "summary_ar": "تحدٍ وطني يجمع المدارس والجامعات والجهات الحكومية والصناعة حول حلول الأمن السيبراني.",
+    "image": "assets/img/hackathon.jpg"
+  },
+  {
+    "id": "youth-forum",
+    "title": "Youth Cybersecurity Forum",
+    "title_ar": "منتدى الشباب للأمن السيبراني",
+    "type": "Forum",
+    "type_ar": "منتدى",
+    "status": "Next edition to be announced",
+    "status_ar": "سيتم الإعلان عن النسخة القادمة",
+    "summary": "Career dialogue, technical workshops and practical cyber challenges for school and university learners.",
+    "summary_ar": "حوارات مهنية وورش تقنية وتحديات عملية لطلبة المدارس والجامعات.",
+    "image": "assets/img/news-hackathon.jpg"
+  },
+  {
+    "id": "summer",
+    "title": "Cybersecurity Summer Workshops",
+    "title_ar": "ورش الأمن السيبراني الصيفية",
+    "type": "Workshops",
+    "type_ar": "ورش",
+    "status": "Seasonal registration",
+    "status_ar": "تسجيل موسمي",
+    "summary": "Short applied workshops for youth, professionals and community audiences.",
+    "summary_ar": "ورش تطبيقية قصيرة للشباب والمهنيين وفئات المجتمع.",
+    "image": "assets/img/training.jpg"
+  }
+]
